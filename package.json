@@ -1,0 +1,27 @@
+{
+  "name": "@bitello/ui",
+  "version": "0.0.1",
+  "description": "A Vitesse Nuxt3 UI library, by Bitello",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "nuxt3": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitello/bitello-ui.git"
+  },
+  "keywords": [
+    "Nuxt3",
+    "Vitesse",
+    "UI"
+  ],
+  "author": "Bitello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitello/bitello-ui/issues"
+  },
+  "homepage": "https://github.com/Bitello/bitello-ui#readme"
+}
